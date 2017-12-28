@@ -1,0 +1,60 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,500);
+body {
+    margin: 0;
+    background-color: #fcfcfc;
+    font-family: Roboto Condensed;
+}
+.container {
+	margin: 0 auto;
+	max-width: 700px;
+	background-color: #FFF;
+	}
+header {
+	padding: 30px;
+	text-align: center;
+	background-image: url("https://images.pexels.com/photos/4241/cold-snow-black-and-white-road.jpg?w=1260&h=750&auto=compress&cs=tinysrgb");
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-attachment: fixed;
+
+}
+h1 {
+	width: bold;
+	text-transform: uppercase;
+	text-size: 48px;
+	color: #d3d3d3;
+	font-family: Oswald, sans-serif;
+	}
+header p, header h1 {
+    text-align: center;
+    color: #d3d3d3;
+}
+section {
+	padding: 0 20%;
+}
+.about h2 {
+	margin-top: 60px;
+	font-size: 28px;
+	color: #878787;
+}
+.interests h2 {
+	margin-top: 40px;
+	color: #8ac477;
+}
+footer p {
+	margin-top: 60px;
+	padding: 30px;
+	background-color: #777777;
+	color: #c6c6c6;
+	text-align: center;
+}
+footer a {
+	text-decoration: none;
+	color: #3d3c3c;
+    font-weight: bold;
+    }
+
+h2 {
+	 font-family: Oswald, sans-serif;
+}
